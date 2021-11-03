@@ -1,0 +1,11 @@
+p {
+	color: orange;
+	background: black;
+	font-size: medium;  
+	font-weight: bold;
+	text-align: center;
+}
+
+h1 {
+	text-shadow: 2px 2px red;
+}
